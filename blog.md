@@ -1,9 +1,0 @@
----
-title: Blogs
-layout: default
----
-
-
-
-----
-
