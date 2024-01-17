@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 1st Project
 ---
 # 1st project: Creating a Jekyll-based page:
